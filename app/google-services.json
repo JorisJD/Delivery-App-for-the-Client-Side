@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443228801219",
+    "firebase_url": "https://niholeatit.firebaseio.com",
+    "project_id": "niholeatit",
+    "storage_bucket": "niholeatit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443228801219:android:61c2e0c1c8a7c3ac",
+        "android_client_info": {
+          "package_name": "com.example.sirojiddinjumaev.niholeatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443228801219-cqrv2b1vqp57pi089gm4i8hbqqj2e9dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sirojiddinjumaev.niholeatit",
+            "certificate_hash": "56d5b28cefccfff67913e1c5024113312178303c"
+          }
+        },
+        {
+          "client_id": "443228801219-q2uod62n9hntfolb4j83jd8fhcbg3fsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmXuuCAHlrRgzYABpCeW18MwCubzrBsk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443228801219-q2uod62n9hntfolb4j83jd8fhcbg3fsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
